@@ -18,5 +18,6 @@ La page se rechargera à chaque changements.
 
 Ici, seront notés les ajouts et mise à jour du code.
 
-* 26 février 2024 : Ajout de la navBar et du fichier de style corespondant
-*25 février 2024 : Initialisaton du projet et mise en page générale.
+* 26 février 2024 : Ajout de la navBar et du fichier de style corespondant.
+
+* 25 février 2024 : Initialisaton du projet et mise en page générale.
