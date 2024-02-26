@@ -1,0 +1,15 @@
+.wb72-navbar {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    border-bottom: 1px solid;
+}
+
+.wb72-navbar-link {
+    display: inline-block;
+    list-style: none;
+    padding: 0.1rem 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: bold;
+}

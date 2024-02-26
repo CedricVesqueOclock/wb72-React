@@ -1,8 +1,14 @@
+import "../style/Navbar.css";
+
 function Navbar() {
     return (
-        <>
-            <h1>Navbar</h1>
-        </>
+        <nav className="wb72-navbar">
+            <ul>
+                <li className="wb72-navbar-link"><a>Accueil</a></li>
+                <li className="wb72-navbar-link"><a>Présentation</a></li>
+                <li className="wb72-navbar-link"><a>Contact</a></li>
+            </ul>
+        </nav>
     )
 }
 
